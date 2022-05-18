@@ -1,0 +1,14 @@
+site_name: Onebase
+site_url: https://example.com/
+nav:
+    - Home: index.md
+    - Django: django.md
+    - ESP32: esp32.md
+    - Git: git.md
+    - IDias: ideas.md
+    - Linux: linux.md
+    - Mostevents: mostevents.md
+    - Python: python.md
+    - Study: study.md
+    - MkDocs: mkdocs.md
+theme: readthedocs
